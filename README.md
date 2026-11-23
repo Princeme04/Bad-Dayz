@@ -123,8 +123,8 @@ This is currently a class / team project. Issues and suggestions are welcome. Pl
 
 - Built with [Godot Engine](https://godotengine.org/)
 - Inspired by *Dead Cells*, *This War of Mine*, and *Lone Survivor*
-- Art and audio credits: *(add sources and licenses here)*
 
 ## License
 
 *(Choose a license, for example MIT, and add a `LICENSE` file. Check the licenses of any third-party assets you use.)*
+

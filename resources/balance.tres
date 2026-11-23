@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="Balance" format=3 uid="uid://danceonixbwlj"]
+
+[ext_resource type="Script" uid="uid://bbfrras0l258u" path="res://scripts/balance.gd" id="1_vbh0q"]
+
+[resource]
+script = ExtResource("1_vbh0q")
+crouch_speed_m = 3.0
+walk_speed_m = 7.0
+player_run_speed = 14.0
+sprint_stamina_cost = 25.0
+metadata/_custom_type_script = "uid://bbfrras0l258u"
